@@ -6,7 +6,7 @@ A Unity-Game. Procedual generated maps. Different kind of enemies. 2D-(like Bind
  * [Sven Tippner](https://github.com/sventippner)
  * [Martin Ludwig](https://github.com/Martin-Ludwig)
  * [Tom Gr.](https://github.com/Tom-G-r)
- * [0x72](https://0x72.itch.io/dungeontileset-ii)*most Graphics: 
+ * [0x72](https://0x72.itch.io/dungeontileset-ii) (most Graphics) 
 
 **A Unity-Game. Procedual generated maps.**
 
