@@ -1,22 +1,31 @@
-# Game-Mage 2021
+# Game: Mage 2021
 
-A Unity-Game. Procedual generated maps. Different kind of enemies. 2D-(like Binding of Issac)-view-angle.
+A Unity game. Developed for a university project.
+Mage is a 2D roguelike with pixel graphics.
+
+**Core Features**
+ * 4 different playable characters with different skillsets
+ * Procedurally generated maps
+ * Difficulty modes
+ * Different enemies with different attacks and behaviors
+ * Enemies can group up and attack the player as a group
+ * Boss fights which increase in difficulty
+ * timer will show how fast you beat the game upon completion
 
 **Developed by:**
  * [Sven Tippner](https://github.com/sventippner)
  * [Martin Ludwig](https://github.com/Martin-Ludwig)
  * [Tom Gr.](https://github.com/Tom-G-r)
- * [0x72](https://0x72.itch.io/dungeontileset-ii) (most Graphics) 
 
-A Unity-Game. Procedual generated maps.
+Most of the sprites and graphics are from the [Dungeontileset II](https://0x72.itch.io/dungeontileset-ii) developed by [0x72](https://twitter.com/_0x72_)
 
-This repository contains just the scripting solutions of the game "Mage". Enemy behavior, interface and back-end like map-creation.
+This repository contains just the scripts of the game like Enemy behavior, interface, map-creation and spells.
 
-# Get the windows game from here:
-  * [Link to GoogleDrive](https://drive.google.com/file/d/1KXz3IUUVA2mhkNWhRTJlmm396ZDs6hNo/view?usp=sharing)
+# Get the windows version from here:
+ * [Link to GoogleDrive](https://drive.google.com/file/d/1KXz3IUUVA2mhkNWhRTJlmm396ZDs6hNo/view?usp=sharing)
 
-# Game-Story:
-Choose one of 4 different kind of mages to defeat the Black Knight. In the end the timer shows your Speed-run-time. On your journey you going to learn the structure of the maps,  the strength of the different minions and if the exchange of time and power-ups are worth it. Stage after stage the enemies will be stronger and sometimes easier, so stage 4 can be easiere to defeat than stage 2. Just try it and let us know wants your completion time. 
+# Story:
+Choose one of 4 different mages to defeat the Black Knights. In the end a timer shows you your completion time. On your journey you are going to learn the structure of the maps,  the strengths and weaknesses of the different monsters and if the exchange of time and power-ups are worth it. Stage after stage the enemies will increase in power.
 
 # Impressions
 
