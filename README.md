@@ -21,8 +21,8 @@ Most of the sprites and graphics are from the [Dungeontileset II](https://0x72.i
 
 This repository contains just the scripts of the game like Enemy behavior, interface, map-creation and spells.
 
-# Get the windows version from here:
- * [Link to GoogleDrive](https://drive.google.com/file/d/1KXz3IUUVA2mhkNWhRTJlmm396ZDs6hNo/view?usp=sharing)
+# Get the latest release here:
+ * [Link to Release](https://github.com/Tom-G-r/Game-Mage/releases/latest)
 
 # Story:
 Choose one of 4 different mages to defeat the Black Knights. In the end a timer shows you your completion time. On your journey you are going to learn the structure of the maps,  the strengths and weaknesses of the different monsters and if the exchange of time and power-ups are worth it. Stage after stage the enemies will increase in power.
