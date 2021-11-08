@@ -18,8 +18,10 @@ This repository contains just the scripting solutions of the game "Mage". Enemy 
 #Game-Story:
 Choose one of 4 different kind of mages to defeat the Black Knight. In the end the timer shows your Speed-run-time. On your journey you going to learn the structure of the maps,  the strength of the different minions and if the exchange of time and power-ups are worth it. Stage after stage the enemies will be stronger and sometimes easier, so stage 4 can be easiere to defeat than stage 2. Just try it and let us know wants your completion time. 
 
-![Startseite](docs/startseite.png)
-![Startseite mobile](docs/startseite_m.png)
+#Impressions
+
+![Start](Game_Screenshots/Start_Screen.jpg)
+
 
 ![Startseite](docs/startseite.png)
 ![Startseite mobile](docs/startseite_m.png)
