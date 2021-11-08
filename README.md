@@ -20,5 +20,12 @@ Choose one of 4 different kind of mages to defeat the Black Knight. In the end t
 
 # Impressions
 
-![Start](Game_Screenshots/Start_Screen.JPG)
+![Start_Screen](Game_Screenshots/Start_Screen.JPG)
 
+![Main_Menu](Game_Screenshots/Menu.JPG)
+
+![Choose_Charakter](Game_Screenshots/Charakter.JPG)
+
+![Game_Begin](Game_Screenshots/Game_Begin.JPG)
+
+![Labyrinth](Game_Screenshots/Labyrinth.JPG)
